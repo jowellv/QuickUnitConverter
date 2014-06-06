@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Unit Converter</string>
+    
+    <string name="input_hint">Enter Value:</string>
+    <string name="length">length</string>
+    <string name="mass">mass</string>
+    <string name="temp">temp</string>
+    <string name="volume">volume</string>
+    <string name="area">area</string>
+    <string name="money">money</string>
+    <string name="action_about">About</string>
+    <string name="about_message">Thank you for downloading!\nCreated with love by Toyookaai!! \nRate my app in the app store ^_^\ntoyookaai@gmail.com</string>
+    <string name="unit_picker_title">Select a unit to convert:</string>
+    <string name="about_title">About Quick Unit Converter</string>
+    <string name="send_email">Send Email</string>
+    <string name="more_apps">Rate My App</string>
+    <string name="centimeter">centimeter</string>
+    <string name="meter">meter</string>
+    <string name= "kilometer">kilometer</string>
+    <string-array name="length_units">
+        <item>millimeter</item>
+        <item>centimeter</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>inch</item>
+        <item>feet</item>
+        <item>yard</item>
+        <item>mile</item>
+     </string-array> 
+    <string-array name="mass_units">
+        <item>milligram</item>
+        <item>gram</item>
+        <item>kilogram</item>
+        <item>ounce</item>
+        <item>pound</item>
+        <item>ton</item>
+     </string-array> 
+    <string-array name="temp_units">
+        <item>\u2103</item>
+        <item>\u2109</item>
+        <item>K</item>
+     </string-array> 
+    <string-array name="area_units">
+        <item>meter\u00b2</item>
+        <item>kilometer\u00b2</item>
+        <item>feet\u00b2</item>
+        <item>mile\u00b2</item>
+        <item>acre</item>
+        <item>tatami</item>
+     </string-array> 
+    <string-array name="volume_units">
+        <item>mL</item>
+        <item>liter</item>
+        <item>meter\u00b3</item>
+        <item>tsp</item>
+        <item>tbsp</item>
+        <item>fl oz</item>
+        <item>pint</item>
+        <item>quart</item>
+        <item>gallon</item>
+     </string-array> 
+    
+</resources>
